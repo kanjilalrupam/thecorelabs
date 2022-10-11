@@ -28,7 +28,7 @@ if (typeof window !== "undefined"){
 window.addEventListener('scroll', toggleVisible);
 }
 return (
-	<button className={`${visible ? 'fixed' : 'none'}  text-gray-200 shadow-md shadow-[#a460ed] bg-[#a460ed] rounded-md bottom-10 right-6 `}>
+	<button className={`${visible ? 'fixed' : 'none'} z-30 text-gray-200 shadow-md shadow-[#a460ed] bg-[#a460ed] rounded-md bottom-10 right-6 `}>
 	<BsFillArrowUpSquareFill className='h-[50px] w-[50px] ' onClick={scrollToTop} />
 	</button>
 );
