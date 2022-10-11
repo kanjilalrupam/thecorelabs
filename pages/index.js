@@ -73,7 +73,7 @@ Choose from our multifarious services to provide a user-friendly, highly technic
 
 
           <div className='flex md:flex-row  lg:justify-center gap-16  flex-col py-10'>
-              <div className=' w-full lg:w-[60%] h-fit' >
+              <div className=' w-full lg:w-[60%] h-fit mx-auto' >
                   <div className='relative '>
                     <div className=' lg:px-16 '>
                       <Image src={left} alt="left" width={1064} height={832}/>
