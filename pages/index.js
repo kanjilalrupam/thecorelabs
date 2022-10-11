@@ -83,7 +83,7 @@ Choose from our multifarious services to provide a user-friendly, highly technic
                </div>
 
                <div className='lg:w-[40%] w-full h-full'>
-                  <p className='lg:text-xl font-semibold text-gray-600 leading-relaxed'>
+                  <p className='lg:text-xl font-semibold text-gray-600 leading-relaxed text-center md:text-start'>
                   CoreLabs IT Services is an online web service portal offering several services to aid the online growth and development of an individual or organisation. We intend to dedicate our services to help you make a mark of your passion with an effective online presence.
 Choose from our multifarious services to provide a user-friendly, highly technical and end-to-end secure experience for your precious clientele. We care for your growth and benefit from a fruittful and cooperative association with our firm. Join with us today to start creating your online identity!
                   </p>
