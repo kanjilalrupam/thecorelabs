@@ -4,7 +4,7 @@ import Navbar from './Navcomponent'
 import {AiOutlineArrowRight,AiOutlineForm} from 'react-icons/ai'
 import Image from 'next/image'
 
-import Team from './team'
+import Team from './Team'
 import Contact from './Contact'
 
 import hero from '../public/dev-ed-wave.png';
