@@ -16,7 +16,7 @@ export default function Navcomponent() {
   }
 
   function scrollFunction() {
-    if (document.body.scrollTop >300|| document.documentElement.scrollTop > 300) {
+    if (document.body.scrollTop >392|| document.documentElement.scrollTop > 392) {
       setNavBar(true);
     }
     else{
