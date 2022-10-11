@@ -39,7 +39,7 @@ Choose from our multifarious services to provide a user-friendly, highly technic
         <Navbar  />
 
         {/* Hero Section  */}
-        <section className='py-8 mt-[-18px]  lg:py-0 max-h-screen h-[100vh] lg:px-20 md:px-10 px-6 w-full bg-[#A460ED] ' >
+        <section className='py-8 mt-[-18px]  lg:py-0 max-h-screen  lg:h-[100vh] lg:px-20 md:px-10 px-6 w-full bg-[#A460ED] ' >
 
           <div className='grid  auto-rows-auto md:grid-cols-2 lg:gap-24  '>
               <div className='w-full  flex flex-col items-center lg:items-start justify-center  
