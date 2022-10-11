@@ -43,8 +43,8 @@ export default function Home() {
                 <span className='text-[#F07DEA] text-3xl lg:text-5xl font-bold py-5'>Corelabs</span>
 
                 <div className='flex'>
-                <a  href='https://wa.me/917001911814?text=' className="bg-green-400 hover:bg-green-800 duration-500 text-white rounded-lg lg:mt-6 py-2 px-6 flex justify-center items-center md:text-xl mr-6 "> <BsWhatsapp className="mr-2"/> Connect</a>
-                <a  href='https://wa.me/917001911814?text=' className="bg-white text-gray-800 font-semibold hover:bg-gray-200 duration-500 text-white rounded-lg lg:mt-6 py-2 px-6 flex justify-center items-center md:text-xl "> <AiOutlineForm className="mr-2"/> Contact Form</a>
+                <a  href='https://wa.me/917001911814?text=' className="bg-green-400 hover:bg-green-800 duration-500 text-white rounded-lg lg:mt-6 py-2 px-6 flex justify-center items-center text-sm md:text-xl mr-6 "> <BsWhatsapp className="mr-2"/> Connect</a>
+                <a  href='https://wa.me/917001911814?text=' className="bg-white text-gray-800 font-semibold hover:bg-gray-200 duration-500 text-white rounded-lg lg:mt-6 text-sm py-2 px-6 flex justify-center items-center md:text-xl "> <AiOutlineForm className="mr-2"/> Contact Form</a>
                 </div>
                 
               
