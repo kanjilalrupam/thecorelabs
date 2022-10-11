@@ -107,7 +107,7 @@ Choose from our multifarious services to provide a user-friendly, highly technic
         
         <div className='flex pt-10 lg:w-[80%] mx-auto  flex-col lg:flex-row gap-16 px-10 lg:py-24'>
           {/* card 1 */}
-          <div  className=' w-full lg:basis-1/3 h-full lg:h-[420px] px-2 border border-white rounded-xl shadow-lg hover:mt-[-1rem] hover:mr-[1rem] '>
+          <div  className=' w-full lg:basis-1/3 h-full lg:h-[420px] px-2 border border-white rounded-xl shadow-lg hover:mt-[-1rem] hover:mr-[1rem] transition-all duration-500'>
               <div className='grid auto-rows-auto'>
                   <div className='mx-auto'>
                     <div className='h-36 w-36 pt-6'>
@@ -123,7 +123,7 @@ Choose from our multifarious services to provide a user-friendly, highly technic
           </div>
 
           {/* card 2 */}
-          <div  className=' w-full lg:basis-1/3 h-full lg:h-[420px] px-2 border border-white rounded-xl shadow-lg hover:mt-[-1rem] hover:mr-[1rem]'>
+          <div  className=' w-full lg:basis-1/3 h-full lg:h-[420px] px-2 border border-white rounded-xl shadow-lg hover:mt-[-1rem] hover:mr-[1rem] transition-all duration-500'>
               <div className='grid auto-rows-auto'>
                   <div className='mx-auto h-36 w-36 pt-6'>
                     <Image src={illustration} alt="illustrations"/>
@@ -136,7 +136,7 @@ Choose from our multifarious services to provide a user-friendly, highly technic
               </div>
           </div>
           {/* card 3 */}
-          <div  className=' w-full lg:basis-1/3 lg:h-[420px] px-2 border border-white rounded-xl shadow-lg hover:mt-[-1rem] hover:mr-[1rem]'>
+          <div  className=' w-full lg:basis-1/3 lg:h-[420px] px-2 border border-white rounded-xl shadow-lg hover:mt-[-1rem] hover:mr-[1rem]transition-all duration-500'>
               <div className='grid auto-rows-auto'>
                   <div className='mx-auto h-36 w-36 pt-6'>
                     <Image src={webDevelopment} alt="web development"/>
