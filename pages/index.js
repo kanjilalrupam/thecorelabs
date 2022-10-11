@@ -44,7 +44,7 @@ export default function Home() {
 
                 <div className='flex'>
                 <a  href='https://wa.me/917001911814?text=' className="bg-green-400 hover:bg-green-800 duration-500 text-white rounded-lg lg:mt-6 py-2 px-6 flex justify-center items-center text-sm md:text-xl mr-6 "> <BsWhatsapp className="mr-2"/> Connect</a>
-                <a  href='https://wa.me/917001911814?text=' className="bg-white text-gray-800 font-semibold hover:bg-gray-200 duration-500 text-white rounded-lg lg:mt-6 text-sm py-2 px-6 flex justify-center items-center md:text-xl "> <AiOutlineForm className="mr-2"/> Contact Form</a>
+                <a  href='https://form.jotform.com/222825920072452' className="bg-white text-gray-800 font-semibold hover:bg-gray-200 duration-500 text-white rounded-lg lg:mt-6 text-sm py-2 px-6 flex justify-center items-center md:text-xl "> <AiOutlineForm className="mr-2"/> Contact Form</a>
                 </div>
                 
               
@@ -162,7 +162,7 @@ Choose from our multifarious services to provide a user-friendly, highly technic
             <Contact/>
          </section>
           <footer className='py-4 text-lg lg:px-20 bg-sky-800 md:px-10 px-6 w-full'>
-            <p className='text-white'>Made with  ❤️ || For any query please contact us :</p>
+            <p className='text-white'>Made with  ❤️ || For any query please contact us : <a href="https://form.jotform.com/222825920072452" className='text-blue-600 px-2 font-bold'>Contact Form</a> </p>
           </footer>
         <ScrollButton/>
 
