@@ -27,7 +27,7 @@ export default function Navcomponent() {
     
     return (
         // <nav  className={navbar ? "w-full bg-white shadow sticky top-0  transition-all duration-300 py-4": "w-full bg-white shadow py-6"}>
-        <nav  className={ navBar=== true ?  "w-full bg-purple-400 shadow-lg z-20 py-2 fixed top-0 ": "w-full bg-[#a460ed] z-20 py-2 " }>
+        <nav  className={ navBar=== true ?  "w-full bg-purple-400 shadow-lg z-20 py-2 pt-4 fixed top-0 ": "w-full bg-[#a460ed] z-20 py-2 " }>
           <div className=" flex justify-between items-center  pr-6 md:px-10 lg:px-20">
             <div className='relative h-[fit] w-[150px]  lg:w-[250px] lg:h-[auto] py-2'>
             <Image src={logo1} className="" alt='corelabs'  objectFit='cover' />
